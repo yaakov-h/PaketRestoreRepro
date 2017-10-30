@@ -1,0 +1,7 @@
+version 5.119.0 --force-nuget --nuget=source=https://api.nuget.org/v3/index.jsonv
+
+source https://api.nuget.org/v3/index.json
+
+nuget Newtonsoft.Json
+nuget NUnit
+nuget NUnit3TestAdapter
